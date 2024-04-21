@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Szymek Janaczek</h1>
-<h3 align="center">Hello there 👋 Software developer by day, problem solver by night, and a 24/7 lover of photography - that's who I am. In love with turning complex challenges into elegant solutions. Parting with my laptop? Sure - only when I swap it for a camera. Experienced in developing web apps: PHP, Laravel, Redis, MySQL TypeScript, Vue.js, React, Python</h3>
+<h1>Hi 👋, I'm Szymek Janaczek</h1>
+<h3>Hello there 👋 Software developer by day, problem solver by night, and a 24/7 lover of photography - that's who I am. In love with turning complex challenges into elegant solutions. Parting with my laptop? Sure - only when I swap it for a camera. Experienced in developing web apps: PHP, Laravel, Redis, MySQL TypeScript, Vue.js, React, Python</h3>
 
 - 🔭 I’m currently working on **text analyzer and corrector - but better than existing ;)**
 

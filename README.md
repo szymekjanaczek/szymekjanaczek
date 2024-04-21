@@ -5,7 +5,7 @@
 text analyzer and corrector - but better than existing ;)
 
 <h3>👯 I’m looking to collaborate on...</h3>
-sth interesting, built with web technologies. Can be connected with e-commerce automatisation
+sth interesting, built with web technologies. Maybe related to e-commerce automatisations - or LLMs
 
 <h3>📫 How to reach me?</h3>
 simplest: DM on linkedin<br>
